@@ -49,19 +49,6 @@ A C#/.NET 9 WPF-based chatbot that builds on the console version by introducing 
 • ScrollViewer auto-scrolls to latest messages
 • Hidden quiz panel with toggled visibility
 
-📁 Folder Structure
-
-CyberSecurityChatBotPOE/
-├── MainWindow.xaml + MainWindow.xaml.cs
-├── ChatbotEngine.cs
-├── Models/
-│   ├── QuizQuestion.cs
-│   ├── TaskModel.cs
-│   └── ActivityLog.cs
-├── Assets/
-│   ├── greeting.wav
-│   └── ascii_art.txt
-
 📌 Version Notes
 
 ✔ Part 1: Basic keyword and memory chatbot (Console)
