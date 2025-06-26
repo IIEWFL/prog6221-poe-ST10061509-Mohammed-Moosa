@@ -27,7 +27,7 @@ A C#/.NET 9 WPF-based chatbot that builds on the console version by introducing 
 
 | User Prompt                  | Assistant Response                                      |
 | ---------------------------- | ------------------------------------------------------- |
-| `my name is Mohammed`            | “Nice to meet you, John!” (remembers your name)         |
+| `my name is Mohammed`            | “Nice to meet you, Mohammed!” (remembers your name)         |
 | `I'm interested in phishing` | “Thanks for sharing! I’ll remember you’re interested…” |
 | `I feel worried`             | “It’s okay to feel worried. I’m here to help.”          |
 | `add task secure email`      | “Task added: secure email.”                             |
