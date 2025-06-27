@@ -37,7 +37,7 @@ A C#/.NET 9 WPF-based chatbot that builds on the console version by introducing 
 
 🧠 Quiz Functionality
 
-• 10 randomized multiple-choice questions
+• 10 multiple-choice questions
 • Instant feedback after each answer
 • Final score summary with motivation
 • Quiz panel can be opened/closed dynamically
